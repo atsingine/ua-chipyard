@@ -1,12 +1,12 @@
 # All the necessary dependencies and files are brought to this directory
 
-## MATLAB Model source code is in
+## MATLAB model source code is in
 - `student-work/models/matlab_model`
 
 ## RISC Baseline path
 - `student-work/models/software_imp`
 - types and complex function defined in
-    - complex.h
+    - `complex.h`
 - test programs are
     - `complex_vector_add_test.c`
     - `complex_vector_mul_test.c`
